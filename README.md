@@ -1,1 +1,1 @@
-# atweb3-celo-metadata
+# celo.atweb3.io
